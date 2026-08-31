@@ -1,2 +1,7 @@
 # banner_grab.py
-Utilitário leve para identificação de serviços por porta.
+
+Ferramenta simples para captura de banners de serviços em portas específicas.
+
+## Uso
+```bash
+python3 banner_grab.py <IP>
